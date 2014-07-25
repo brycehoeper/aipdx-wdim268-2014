@@ -21,4 +21,6 @@ In your cloned folder week_02/dummy_site, make me a simple "lorem ipsum" website
 Feel free to muck around with whatever sparklies you want in these files. Push these files back up to your repo.
 
 
-DID YOU HEAR ABOUT THE CAMPING TRIP?  IT WAS INTENSE! GET IT?! 
+WHEN IS THE BEST TIME TO GO TO THE DENTIST...  2:30
+
+
