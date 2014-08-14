@@ -1,0 +1,142 @@
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	width: 100%;
+}
+
+body {
+	font-family: "Times New Roman", Times, serif;
+	font-weight: 200;
+	color: rgb(0,0,0);
+}
+
+
+.body_box {
+	max-width: 960px;
+	margin: 75px auto;
+	padding: 0 10px 0 10px;
+	background-color: #BCD4E6;
+	border: 2px dashed #03C03C;
+}
+
+a  {
+	text-decoration: none;
+}
+
+a:link  {
+	color: #000;
+}
+
+a:visited  {
+	color: #808080;
+}
+
+a:hover  {
+	color: rgba(255,255,255,.8);
+}
+
+h1 {
+	margin-top: 150px;
+	margin-left: 45px;
+	font-weight: 900;
+	font-size: 35px;
+}
+
+h2 {
+	margin-top: 50px;
+	margin-bottom: 30px;
+	margin-left: 45px;
+	font-weight: 700;
+	font-size: 1.2em;
+}
+
+nav {
+	margin-top: 250px;
+	margin-left: 135px;	
+}
+
+li {
+	display: inline;
+	list-style-type: none;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1em;
+}
+
+.wrap {
+	margin-top: 50px;
+}
+
+.top_rightbox {
+	width: 200px;
+	height: 300px;
+	float: right;
+	margin-top: -225px;
+	margin-right: 45px;
+	background: #fff;
+	border: 3px solid black;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15.5px;
+	line-height: 1.5em;
+	font-weight: 300;
+}
+
+.top_rightbox p {
+	padding: 10px 15px 10px 15px;
+}
+
+.leftbox {
+	max-width: 200px;
+	height: 200px;
+	background: white;
+	border: 3px solid black;
+	font-family: "Times New Roman", Times, serif;
+	font-size: .7em;
+	line-height: 1.5em;
+	font-weight: 400;
+	float: left;
+	margin: 10px 65px;
+	padding: 10px
+}
+
+.middlebox img {
+	max-width: 200px;
+	height: 200px;
+	background: white;
+	border: 3px solid black;
+	float: left;
+	margin: 10px 45px;
+}
+
+.rightbox {
+	max-width: 200px;
+	height: 200px;s
+	background: white;
+	border: 3px solid black;
+	font-family: "Times New Roman", Times, serif;
+	font-size: .7em;
+	line-height: 1.5em;
+	font-weight: 400;
+	float: left;
+	margin: 10px 45px;
+	padding: 10px;
+}
+
+
+.scrolling_box {
+	width: 850px;
+	height: 250px;
+	border: 3px solid black;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 100px;
+	line-height: 1.5em;
+	font-weight: 400;
+	padding: 15px;
+	overflow-y: scroll;
+	margin-bottom: 30px;
+	margin-left: 45px;
+}
+
+
