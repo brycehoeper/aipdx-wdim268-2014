@@ -54,7 +54,7 @@ h2 {
 }
 
 nav {
-	margin-top: 250px;
+	margin-top: 150px;
 	margin-left: 135px;	
 }
 
@@ -84,7 +84,7 @@ li {
 }
 
 .top_rightbox p {
-	padding: 10px 15px 10px 15px;
+	padding: 15px 15px;
 }
 
 .leftbox {
@@ -97,7 +97,7 @@ li {
 	line-height: 1.5em;
 	font-weight: 400;
 	float: left;
-	margin: 10px 65px;
+	margin: 75px 65px;
 	padding: 10px
 }
 
@@ -107,7 +107,7 @@ li {
 	background: white;
 	border: 3px solid black;
 	float: left;
-	margin: 10px 45px;
+	margin: 75px 45px;
 }
 
 .rightbox {
@@ -120,7 +120,7 @@ li {
 	line-height: 1.5em;
 	font-weight: 400;
 	float: left;
-	margin: 10px 45px;
+	margin: 75px 45px;
 	padding: 10px;
 }
 
