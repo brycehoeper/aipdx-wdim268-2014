@@ -112,8 +112,8 @@ li {
 
 .rightbox {
 	max-width: 200px;
-	height: 200px;s
-	background: white;
+	height: 200px;
+	background-color: white;
 	border: 3px solid black;
 	font-family: "Times New Roman", Times, serif;
 	font-size: .7em;
